@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akrym Mohammad (Krym)</h1>
-<h3 align="center">A self-taught frontend developer from Libya/Palestine 🇱🇾🇵🇸</h3>
+<h3 align="center">A self-taught fullstack developer from Libya/Palestine 🇱🇾🇵🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkryml&label=Profile%20views&color=0e75b6&style=flat" alt="lkryml" /> </p>
 
