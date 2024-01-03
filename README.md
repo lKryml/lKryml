@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/zkrym_" target="blank"><img src="https://img.shields.io/twitter/follow/zkrym_?logo=twitter&style=for-the-badge" alt="zkrym_" /></a> </p>
 
-- 🌱 I’m currently learning **React, PHP, Tailwind**
+- 🌱 I’m currently learning **React, PHP, Tailwind, SASS**
 
 - 👨‍💻 My Dev Portfolio [https://krym-portfolio.netlify.app/](https://krym-portfolio.netlify.app/)
 
-- 💬 Ask me about **self-learning tips & resources, nutrition, fitness, overall physical and mental health**
+- 💬 Ask me about **self-learning tips & resources**
 
 - 📫 How to reach me **krymbusiness3@gmail.com**
 
-- ⚡ Fun facts ~~ **i have spent over 25000 hours in games** , **i can deadlift 220kg**
+- ⚡ Fun facts ~~ **i have spent over 25000 hours in games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
