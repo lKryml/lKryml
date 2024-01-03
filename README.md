@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, PHP, Tailwind, SASS**
 
-- 👨‍💻 My Dev Portfolio [https://krym-portfolio.netlify.app/](https://krym-portfolio.netlify.app/)
-
 - 💬 Ask me about **self-learning tips & resources**
 
 - 📫 How to reach me **krymbusiness3@gmail.com**
