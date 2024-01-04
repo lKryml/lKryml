@@ -52,9 +52,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkryml&show_icons=true&locale=en&layout=compact" alt="lkryml" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkryml&show_icons=true&locale=en" alt="lkryml" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkryml&" alt="lkryml" /></p>
+<h3 align="left">Stats:</h3>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=lkryml&theme=monokai-metallian&card_width=472" alt="GitHub Streak" /></a>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkryml&show_icons=true&locale=en&theme=onedark" alt="lkryml" /></p>
+
+
