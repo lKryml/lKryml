@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zkrym_" target="blank"><img src="https://img.shields.io/twitter/follow/zkrym_?logo=twitter&style=for-the-badge" alt="zkrym_" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, PHP**
+- 🌱 I’m currently learning **Angular,TypeScript, PHP/Laravel**
 
 - 💬 Ask me about **self-learning tips & resources**
 
