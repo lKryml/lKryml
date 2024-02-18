@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Angular,TypeScript, PHP/Laravel**
 
-- 💬 Ask me about **self-learning tips & resources**
-
 - 📫 How to reach me **krymbusiness3@gmail.com**
-
-- ⚡ Fun facts ~~ **i have spent over 25000 hours in games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
