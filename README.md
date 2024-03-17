@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/zkrym_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkrym_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akram-mohamad-682724239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akram-mohamad-682724239/" height="30" width="40" />  </a>
-<a href="https://stackoverflow.com/users/akram mohammad saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akram mohammad saleh" height="30" width="40" /></a>
-<a href="https://fb.com/lkryml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lkryml" height="30" width="40" /></a>
 <a href="https://instagram.com/llkrymll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="llkrymll" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@krym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krym" height="30" width="40" /></a>
 </p>
