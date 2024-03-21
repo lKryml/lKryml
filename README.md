@@ -57,5 +57,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=lkryml&theme=monokai-metallian&card_width=472" alt="GitHub Streak" /></a>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkryml&show_icons=true&locale=en&theme=onedark" alt="lkryml" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkryml&show_icons=true&locale=en&layout=compact" alt="lkryml" /></p>
 
 
