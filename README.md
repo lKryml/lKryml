@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akrym Mohammad (Krym)</h1>
+<h1 align="center">Hi 👋, I'm Ak-rym Mohammad (Krym)</h1>
 <h3 align="center">A Self-taught fullstack developer from Libya/Palestine 🇱🇾🇵🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkryml&label=Profile%20views&color=0e75b6&style=flat" alt="lkryml" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zkrym_" target="blank"><img src="https://img.shields.io/twitter/follow/zkrym_?logo=twitter&style=for-the-badge" alt="zkrym_" /></a> </p>
 
-- 🌱 I’m currently learning **PHP/Laravel**
+- 🌱 I’m currently learning **Vue / Python|FastAPI / Supabase**
 
 - 📫 How to reach me **krymbusiness3@gmail.com**
 
@@ -14,7 +14,7 @@
 <a href="https://twitter.com/zkrym_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkrym_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akram-mohamad-682724239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akram-mohamad-682724239/" height="30" width="40" />  </a>
 <a href="https://instagram.com/llkrymll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="llkrymll" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@krym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krym" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvkdNfU5X0N7xgWnCRGDKjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krym" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -48,8 +48,9 @@
 
 <h3 align="left">Learning:</h3>
 <p align="left"> 
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
+<!--    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> -->
+
 </p>
 
 
