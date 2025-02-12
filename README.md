@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer from Libya/Palestine 🇱🇾🇵🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkryml&label=Profile%20views&color=0e75b6&style=flat" alt="lkryml" /> </p>
-- 📫 How to reach me **krymbusiness3@gmail.com**
+📫 krymbusiness3@gmail.com
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="nextjs" width="40" height="40"/> </a>
 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -51,7 +51,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Learning:</h3>
+<!-- <h3 align="left">Learning:</h3>
 <p align="left"> 
    
      
@@ -59,6 +59,7 @@
    
 
 </p>
+ 
 
 
 <h3 align="left">Stats:</h3>  
@@ -67,4 +68,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkryml&show_icons=true&locale=en&theme=onedark" alt="lkryml" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkryml&show_icons=true&locale=en&layout=compact" alt="lkryml" /></p>
 
-
+-->
